@@ -7,5 +7,5 @@ Serial_Commands:<br>
 `reset`                    --reset servos<br>
 `disconnect`               --detach servos<br>
 `connect`                  --attach servos<br>
-`+<index>`                 --increase 10 degree for a servo<br>
-`-<index>`                 --decrease 10 degree for a servo<br>
+`+<index>`                 --increase 10 degrees for a servo<br>
+`-<index>`                 --decrease 10 degrees for a servo<br>
