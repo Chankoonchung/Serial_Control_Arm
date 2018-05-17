@@ -9,8 +9,8 @@
   reset                    --reset servos
   disconnect               --detach servos
   connect                  --attach servos
-  +<index>                 --increase 10 degree for a servo
-  -<index>                 --decrease 10 degree for a servo
+  +<index>                 --increase 10 degrees for a servo
+  -<index>                 --decrease 10 degrees for a servo
 ****************************************************************************/
 #include <VarSpeedServo.h>
 String command = ""; // 声明一个字符串数组
